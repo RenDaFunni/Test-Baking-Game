@@ -1,0 +1,8 @@
+[[IMPORTANT]]
+If you want to make your audio work. Please follow this structure EXACTLY:
+
+files/audio/music/... - music
+files/audio/sfx/... - sfx
+files/audio/misc/... - misc sounds
+
+That's all ig
